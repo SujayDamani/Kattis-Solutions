@@ -8,10 +8,6 @@ public class mug{
     try {
       BufferedReader br = new BufferedReader( new InputStreamReader(System.in) );
       String line = br.readLine();
-      /*for(int j=0;j<101;j=j+2){
-        System.out.println();
-        System.out.print(j+" ");
-        int num=j;*/
         int num=Integer.parseInt(line);
         if(num>=0&&num<=200000){
           if(num%2==0){
