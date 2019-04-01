@@ -1,8 +1,9 @@
+//My solution to 'Kastenlauf' on Kattis
 import java.util.*;
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
-public class beer
+public class Kastenlauf
 {
   public static int distance(int x1,int y1,int x2, int y2){
     int sqrx=Math.abs(x2-x1);
