@@ -1,7 +1,7 @@
 //My Solution to Black Friday Problem
 import java.util.*;
 import java.io.*;
-public class black
+public class BlackFriday
 {
   public static void main(String[]args)throws IOException
   {
