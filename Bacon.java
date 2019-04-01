@@ -2,7 +2,7 @@
 import java.util.*;
 import java.io.*;
 import java.util.PriorityQueue;
-public class bacon
+public class Bacon
 {
   public static void main(String[]args)throws IOException
   {
