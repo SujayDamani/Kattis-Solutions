@@ -1,4 +1,4 @@
-//V00875386 Damani, Sujay
+//My solution to 'Kitten on a Tree' on Kattis
 import java.io.*;
 import java.util.*;
 import java.util.Scanner;
