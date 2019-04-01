@@ -1,4 +1,4 @@
-//Kattis Solution for Black Friday Problem
+//My Solution to Black Friday Problem
 import java.util.*;
 import java.io.*;
 public class black
