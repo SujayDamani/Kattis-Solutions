@@ -1,4 +1,4 @@
-//V00875386 Damani, Sujay
+//My solution to "Tree Insertion" problem on Kattis
 import java.math.BigInteger;
 import java.util.*;
 import java.io.*;
