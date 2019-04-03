@@ -1,4 +1,4 @@
-//V00875386 Damani, Sujay
+//my solution to "Compound Words" problem on Kattis
 import java.util.*;
 import java.io.*;
 import java.lang.*;
