@@ -1,4 +1,4 @@
-//My Solution to Bacon, Eggs, and Spam problem on kattis
+//My Solution to Bacon, Eggs, and Spam problem on kattis.
 import java.util.*;
 import java.io.*;
 import java.util.PriorityQueue;
