@@ -1,4 +1,4 @@
-//V00875386 Damani, Sujay
+//My solution to "Ragged Right" problem on kattis
 import java.util.*;
 import java.io.*;
 import java.lang.Math;
