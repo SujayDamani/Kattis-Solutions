@@ -1,4 +1,4 @@
-//My solution to "Pick up sticks" problem on Kattis
+//My solution to "Pick up sticks" problem on Kattis.
 //code used from Algorithms Fourth Edition Robert Sedgewick and Kevin Wayne
 import java.util.*;
 import java.io.*;
