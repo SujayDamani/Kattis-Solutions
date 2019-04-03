@@ -1,4 +1,4 @@
-//My solution to Erase Securely on Kattis
+//My solution to Erase Securely on Kattis.
 import java.util.*;
 import java.io.*;
 public class erase
